@@ -1,9 +1,9 @@
 # EmbeddedC
 Embedded Project
 Required:
--esp8266
--HTU2x sensor
--HW-740 sensor
+-esp8266 \n
+-HTU2x sensor\n
+-HW-740 sensor \n
 Proiectul are la bază o placă de dezvoltare,ESP8266,
 (microcontroller) un senzor de temperatura si umiditate HTU21D, si un
 senzor de miscare. Comunicarea dintre ESP8266 si senzorul de mișcare
